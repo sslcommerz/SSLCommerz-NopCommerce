@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "SSLWireless / SSLCommerz",
+  "SystemName": "Payments.SSLCommerz",
+  "Version": "1.45",
+  "SupportedVersions": [ "4.00", "3.80","3.9","4.0","3.8" ],
+  "Author": "Shahnawaz Ahmed",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.SSLCommerz.dll",
+  "Description": "This plugin allows aggregation of payments by SSLCommerz"
+}
