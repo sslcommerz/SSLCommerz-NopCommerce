@@ -1,8 +1,8 @@
-# SSLCommerz - NopCommerce V4.0
+# SSLCommerz - NopCommerce V4.10
 
 ### Prerequisites
 
-1. .NET Framework 4.6
+1. .NET Core
 2. [Sandbox Account](https://developer.sslcommerz.com/registration/ "SSLCommerz Sandbox Registration")
 
 ### Installation:
