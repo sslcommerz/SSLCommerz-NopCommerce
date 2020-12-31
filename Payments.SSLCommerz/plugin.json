@@ -2,14 +2,10 @@
   "Group": "Payment methods",
   "FriendlyName": "SSLCommerz",
   "SystemName": "Payments.SSLCommerz",
-  "Version": "1.49",
-  "SupportedVersions": [
-    "4.10"
-  ],
+  "Version": "1.89",
+  "SupportedVersions": [ "4.20" ],
   "Author": "SSLWireless",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.Payments.SSLCommerz.dll",
-  "Description": "Pay your online transactions using SSLCommerz",
-  "LimitedToStores": [],
-  "LimitedToCustomerRoles": []
+  "Description": "Pay your online transactions using SSLCommerz"
 }
